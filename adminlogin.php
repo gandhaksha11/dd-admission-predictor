@@ -1,3 +1,4 @@
+//USE THE LATEST VERSION OF PHP 
 <?php
 include 'dbconn-dd.php';
 $username = $_POST['admin_username'];
